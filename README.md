@@ -7,7 +7,6 @@ It makes the following modifications to the default key table.
 
 | Key Binding | Default Behavior        | Improved Behavior                             |
 | :---------: | :---------------------: | :-------------------------------------------: |
-| `Escape`    | Clear selection         | Clear selection and turn off rectangle mode   |
 | `C-v`       | Toggle rectangle mode   | Exactly mimic vi's `C-v` key binding          |
 | `v`         | Begin selection         | Exactly mimic vi's `v` key binding            |
 | `y`         | _N/A_                   | Copy selection (stay in copy mode)            |
